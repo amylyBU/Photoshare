@@ -1,0 +1,36 @@
+Apr 24, 2015 2:02:22 PM org.apache.catalina.core.AprLifecycleListener lifecycleEvent
+INFO: The Apache Tomcat Native library which allows optimal performance in production environments was not found on the java.library.path: .:/Library/Java/Extensions:/System/Library/Java/Extensions:/usr/lib/java
+Apr 24, 2015 2:02:22 PM org.apache.coyote.http11.Http11BaseProtocol init
+INFO: Initializing Coyote HTTP/1.1 on http-8080
+Apr 24, 2015 2:02:22 PM org.apache.catalina.startup.Catalina load
+INFO: Initialization processed in 576 ms
+Apr 24, 2015 2:02:22 PM org.apache.catalina.core.StandardService start
+INFO: Starting service Catalina
+Apr 24, 2015 2:02:22 PM org.apache.catalina.core.StandardEngine start
+INFO: Starting Servlet Engine: Apache Tomcat/5.5.15
+Apr 24, 2015 2:02:22 PM org.apache.catalina.core.StandardHost start
+INFO: XML validation disabled
+Apr 24, 2015 2:02:23 PM org.apache.coyote.http11.Http11BaseProtocol start
+INFO: Starting Coyote HTTP/1.1 on http-8080
+Apr 24, 2015 2:02:23 PM org.apache.catalina.storeconfig.StoreLoader load
+INFO: Find registry server-registry.xml at classpath resource
+Apr 24, 2015 2:02:23 PM org.apache.catalina.startup.Catalina start
+INFO: Server startup in 1088 ms
+Apr 24, 2015 2:02:43 PM org.apache.catalina.startup.HostConfig checkResources
+INFO: Undeploying context [/photoshare]
+Apr 24, 2015 2:02:43 PM org.apache.catalina.startup.HostConfig deployWAR
+INFO: Deploying web application archive photoshare.war
+Apr 24, 2015 2:44:19 PM org.apache.coyote.http11.Http11BaseProtocol pause
+INFO: Pausing Coyote HTTP/1.1 on http-8080
+Apr 24, 2015 2:44:20 PM org.apache.catalina.core.StandardService stop
+INFO: Stopping service Catalina
+Apr 24, 2015 2:44:20 PM org.apache.catalina.core.StandardWrapper unload
+INFO: Waiting for 1 instance(s) to be deallocated
+Apr 24, 2015 2:44:21 PM org.apache.catalina.core.StandardWrapper unload
+INFO: Waiting for 1 instance(s) to be deallocated
+Apr 24, 2015 2:44:22 PM org.apache.catalina.core.StandardWrapper unload
+INFO: Waiting for 1 instance(s) to be deallocated
+Apr 24, 2015 2:44:22 PM org.apache.coyote.http11.Http11BaseProtocol destroy
+INFO: Stopping Coyote HTTP/1.1 on http-8080
+Apr 24, 2015 2:44:22 PM org.apache.catalina.core.AprLifecycleListener lifecycleEvent
+INFO: Failed shutdown of Apache Portable Runtime

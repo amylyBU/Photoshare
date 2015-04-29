@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!DOCTYPE web-app PUBLIC "-//Sun Microsystems, Inc.//DTD Web Application 2.3//EN" "http://java.sun.com/dtd/web-app_2_3.dtd">
+<web-app>
+    <display-name>photoshare</display-name>
+    <distributable/>
+    <servlet>
+        <servlet-name>ImageServlet</servlet-name>
+        <display-name>ImageServlet</display-name>
+        <servlet-class>photoshare.ImageServlet</servlet-class>
+        <load-on-startup>0</load-on-startup>
+        <load-on-startup>2</load-on-startup>
+    </servlet>
+
+    <servlet-mapping>
+        <servlet-name>ImageServlet</servlet-name>
+        <url-pattern>/img/*</url-pattern>
+    </servlet-mapping>
+
+    <resource-ref>
+        <description>postgreSQL datasource</description>
+        <res-ref-name>jdbc/postgres</res-ref-name>
+        <res-type>javax.sql.DataSource</res-type>
+        <res-auth>Container</res-auth>
+    </resource-ref>
+
+    <security-constraint>
+        <web-resource-collection>
+            <web-resource-name>PhotoshareRealm</web-resource-name>
+            <description>Pages accessible by registered users</description>
+
+            <!-- PAGES ACCESIBLE ONLY BY REGISTERED USERS SHOULD BE ADDED HERE -->
+            <url-pattern>/index.jsp</url-pattern>
+            <url-pattern>/album.jsp</url-pattern>
+            <!--
+            THIS IS AN EXAMPLE OF A PATTERN TO MATCH MANY PAGES
+            <url-pattern>/protected/*.jsp</url-pattern>
+       -->
+            <!-- ============================================================= -->
+
+            <http-method>GET</http-method>
+            <http-method>POST</http-method>
+        </web-resource-collection>
+        <auth-constraint>
+            <role-name>RegisteredUser</role-name>
+        </auth-constraint>
+    </security-constraint>
+
+    <login-config>
+        <auth-method>FORM</auth-method>
+        <form-login-config>
+            <form-login-page>/login.jsp</form-login-page>
+            <form-error-page>/loginerror.jsp</form-error-page>
+        </form-login-config>
+    </login-config>
+
+    <security-role>
+        <description>
+            The role that is required to access registered user functions and
+            pages
+        </description>
+        <role-name>RegisteredUser</role-name>
+    </security-role>
+</web-app>

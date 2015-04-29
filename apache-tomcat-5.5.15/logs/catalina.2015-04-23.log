@@ -1,0 +1,538 @@
+Apr 23, 2015 12:00:56 AM org.apache.catalina.startup.HostConfig checkResources
+INFO: Undeploying context [/photoshare]
+Apr 23, 2015 12:00:56 AM org.apache.catalina.startup.HostConfig deployWAR
+INFO: Deploying web application archive photoshare.war
+Apr 23, 2015 12:03:16 AM org.apache.catalina.startup.HostConfig checkResources
+INFO: Undeploying context [/photoshare]
+Apr 23, 2015 12:03:16 AM org.apache.catalina.startup.HostConfig deployWAR
+INFO: Deploying web application archive photoshare.war
+Apr 23, 2015 12:09:06 AM org.apache.catalina.startup.HostConfig checkResources
+INFO: Undeploying context [/photoshare]
+Apr 23, 2015 12:09:06 AM org.apache.catalina.startup.HostConfig deployWAR
+INFO: Deploying web application archive photoshare.war
+Apr 23, 2015 12:11:56 AM org.apache.catalina.startup.HostConfig checkResources
+INFO: Undeploying context [/photoshare]
+Apr 23, 2015 12:11:56 AM org.apache.catalina.startup.HostConfig deployWAR
+INFO: Deploying web application archive photoshare.war
+Apr 23, 2015 12:14:46 AM org.apache.catalina.startup.HostConfig checkResources
+INFO: Undeploying context [/photoshare]
+Apr 23, 2015 12:14:46 AM org.apache.catalina.startup.HostConfig deployWAR
+INFO: Deploying web application archive photoshare.war
+Apr 23, 2015 12:16:36 AM org.apache.catalina.startup.HostConfig checkResources
+INFO: Undeploying context [/photoshare]
+Apr 23, 2015 12:16:36 AM org.apache.catalina.startup.HostConfig deployWAR
+INFO: Deploying web application archive photoshare.war
+Apr 23, 2015 12:56:47 AM org.apache.catalina.startup.HostConfig checkResources
+INFO: Undeploying context [/photoshare]
+Apr 23, 2015 12:56:47 AM org.apache.catalina.startup.HostConfig deployWAR
+INFO: Deploying web application archive photoshare.war
+Apr 23, 2015 1:01:58 AM org.apache.catalina.startup.HostConfig checkResources
+INFO: Undeploying context [/photoshare]
+Apr 23, 2015 1:01:58 AM org.apache.catalina.startup.HostConfig deployWAR
+INFO: Deploying web application archive photoshare.war
+Apr 23, 2015 1:08:48 AM org.apache.catalina.startup.HostConfig checkResources
+INFO: Undeploying context [/photoshare]
+Apr 23, 2015 1:08:48 AM org.apache.catalina.startup.HostConfig deployWAR
+INFO: Deploying web application archive photoshare.war
+Apr 23, 2015 1:11:08 AM org.apache.catalina.startup.HostConfig checkResources
+INFO: Undeploying context [/photoshare]
+Apr 23, 2015 1:11:08 AM org.apache.catalina.startup.HostConfig deployWAR
+INFO: Deploying web application archive photoshare.war
+Apr 23, 2015 1:17:18 AM org.apache.catalina.startup.HostConfig checkResources
+INFO: Undeploying context [/photoshare]
+Apr 23, 2015 1:17:18 AM org.apache.catalina.startup.HostConfig deployWAR
+INFO: Deploying web application archive photoshare.war
+Apr 23, 2015 1:53:19 AM org.apache.catalina.startup.HostConfig checkResources
+INFO: Undeploying context [/photoshare]
+Apr 23, 2015 1:53:19 AM org.apache.catalina.startup.HostConfig deployWAR
+INFO: Deploying web application archive photoshare.war
+Apr 23, 2015 2:04:39 AM org.apache.catalina.startup.HostConfig checkResources
+INFO: Undeploying context [/photoshare]
+Apr 23, 2015 2:04:39 AM org.apache.catalina.startup.HostConfig deployWAR
+INFO: Deploying web application archive photoshare.war
+Apr 23, 2015 2:05:19 AM org.apache.catalina.startup.HostConfig checkResources
+INFO: Undeploying context [/photoshare]
+Apr 23, 2015 2:05:19 AM org.apache.catalina.startup.HostConfig deployWAR
+INFO: Deploying web application archive photoshare.war
+Apr 23, 2015 2:09:30 AM org.apache.catalina.startup.HostConfig checkResources
+INFO: Undeploying context [/photoshare]
+Apr 23, 2015 2:09:30 AM org.apache.catalina.startup.HostConfig deployWAR
+INFO: Deploying web application archive photoshare.war
+Apr 23, 2015 2:11:10 AM org.apache.catalina.startup.HostConfig checkResources
+INFO: Undeploying context [/photoshare]
+Apr 23, 2015 2:11:10 AM org.apache.catalina.startup.HostConfig deployWAR
+INFO: Deploying web application archive photoshare.war
+Apr 23, 2015 2:14:20 AM org.apache.catalina.startup.HostConfig checkResources
+INFO: Undeploying context [/photoshare]
+Apr 23, 2015 2:14:20 AM org.apache.catalina.startup.HostConfig deployWAR
+INFO: Deploying web application archive photoshare.war
+Apr 23, 2015 2:43:01 AM org.apache.catalina.startup.HostConfig checkResources
+INFO: Undeploying context [/photoshare]
+Apr 23, 2015 2:43:01 AM org.apache.catalina.startup.HostConfig deployWAR
+INFO: Deploying web application archive photoshare.war
+Apr 23, 2015 2:43:51 AM org.apache.catalina.startup.HostConfig checkResources
+INFO: Undeploying context [/photoshare]
+Apr 23, 2015 2:43:51 AM org.apache.catalina.startup.HostConfig deployWAR
+INFO: Deploying web application archive photoshare.war
+Apr 23, 2015 2:44:31 AM org.apache.catalina.startup.HostConfig checkResources
+INFO: Undeploying context [/photoshare]
+Apr 23, 2015 2:44:31 AM org.apache.catalina.startup.HostConfig deployWAR
+INFO: Deploying web application archive photoshare.war
+Apr 23, 2015 2:46:41 AM org.apache.catalina.startup.HostConfig checkResources
+INFO: Undeploying context [/photoshare]
+Apr 23, 2015 2:46:41 AM org.apache.catalina.startup.HostConfig deployWAR
+INFO: Deploying web application archive photoshare.war
+Apr 23, 2015 2:49:21 AM org.apache.catalina.startup.HostConfig checkResources
+INFO: Undeploying context [/photoshare]
+Apr 23, 2015 2:49:21 AM org.apache.catalina.startup.HostConfig deployWAR
+INFO: Deploying web application archive photoshare.war
+Apr 23, 2015 2:51:41 AM org.apache.catalina.startup.HostConfig checkResources
+INFO: Undeploying context [/photoshare]
+Apr 23, 2015 2:51:41 AM org.apache.catalina.startup.HostConfig deployWAR
+INFO: Deploying web application archive photoshare.war
+Apr 23, 2015 2:52:21 AM org.apache.catalina.startup.HostConfig checkResources
+INFO: Undeploying context [/photoshare]
+Apr 23, 2015 2:52:21 AM org.apache.catalina.startup.HostConfig deployWAR
+INFO: Deploying web application archive photoshare.war
+Apr 23, 2015 2:57:41 AM org.apache.catalina.startup.HostConfig checkResources
+INFO: Undeploying context [/photoshare]
+Apr 23, 2015 2:57:41 AM org.apache.catalina.startup.HostConfig deployWAR
+INFO: Deploying web application archive photoshare.war
+Apr 23, 2015 3:34:47 AM org.apache.coyote.http11.Http11BaseProtocol pause
+INFO: Pausing Coyote HTTP/1.1 on http-8080
+Apr 23, 2015 3:34:48 AM org.apache.catalina.core.StandardService stop
+INFO: Stopping service Catalina
+Apr 23, 2015 3:34:48 AM org.apache.coyote.http11.Http11BaseProtocol destroy
+INFO: Stopping Coyote HTTP/1.1 on http-8080
+Apr 23, 2015 3:34:48 AM org.apache.catalina.core.AprLifecycleListener lifecycleEvent
+INFO: Failed shutdown of Apache Portable Runtime
+Apr 23, 2015 12:52:39 PM org.apache.catalina.core.AprLifecycleListener lifecycleEvent
+INFO: The Apache Tomcat Native library which allows optimal performance in production environments was not found on the java.library.path: .:/Library/Java/Extensions:/System/Library/Java/Extensions:/usr/lib/java
+Apr 23, 2015 12:52:39 PM org.apache.coyote.http11.Http11BaseProtocol init
+INFO: Initializing Coyote HTTP/1.1 on http-8080
+Apr 23, 2015 12:52:39 PM org.apache.catalina.startup.Catalina load
+INFO: Initialization processed in 585 ms
+Apr 23, 2015 12:52:39 PM org.apache.catalina.core.StandardService start
+INFO: Starting service Catalina
+Apr 23, 2015 12:52:39 PM org.apache.catalina.core.StandardEngine start
+INFO: Starting Servlet Engine: Apache Tomcat/5.5.15
+Apr 23, 2015 12:52:39 PM org.apache.catalina.core.StandardHost start
+INFO: XML validation disabled
+Apr 23, 2015 12:52:40 PM org.apache.coyote.http11.Http11BaseProtocol start
+INFO: Starting Coyote HTTP/1.1 on http-8080
+Apr 23, 2015 12:52:40 PM org.apache.catalina.storeconfig.StoreLoader load
+INFO: Find registry server-registry.xml at classpath resource
+Apr 23, 2015 12:52:40 PM org.apache.catalina.startup.Catalina start
+INFO: Server startup in 1047 ms
+Apr 23, 2015 1:07:12 PM org.apache.catalina.startup.HostConfig checkResources
+INFO: Undeploying context [/photoshare]
+Apr 23, 2015 1:07:12 PM org.apache.catalina.startup.HostConfig deployWAR
+INFO: Deploying web application archive photoshare.war
+Apr 23, 2015 2:00:13 PM org.apache.catalina.startup.HostConfig checkResources
+INFO: Undeploying context [/photoshare]
+Apr 23, 2015 2:00:13 PM org.apache.catalina.startup.HostConfig deployWAR
+INFO: Deploying web application archive photoshare.war
+Apr 23, 2015 2:08:53 PM org.apache.catalina.startup.HostConfig checkResources
+INFO: Undeploying context [/photoshare]
+Apr 23, 2015 2:08:53 PM org.apache.catalina.startup.HostConfig deployWAR
+INFO: Deploying web application archive photoshare.war
+Apr 23, 2015 2:12:03 PM org.apache.catalina.startup.HostConfig checkResources
+INFO: Undeploying context [/photoshare]
+Apr 23, 2015 2:12:03 PM org.apache.catalina.startup.HostConfig deployWAR
+INFO: Deploying web application archive photoshare.war
+Apr 23, 2015 2:13:13 PM org.apache.catalina.startup.HostConfig checkResources
+INFO: Undeploying context [/photoshare]
+Apr 23, 2015 2:13:13 PM org.apache.catalina.startup.HostConfig deployWAR
+INFO: Deploying web application archive photoshare.war
+Apr 23, 2015 2:14:23 PM org.apache.catalina.startup.HostConfig checkResources
+INFO: Undeploying context [/photoshare]
+Apr 23, 2015 2:14:23 PM org.apache.catalina.startup.HostConfig deployWAR
+INFO: Deploying web application archive photoshare.war
+Apr 23, 2015 2:15:13 PM org.apache.catalina.startup.HostConfig checkResources
+INFO: Undeploying context [/photoshare]
+Apr 23, 2015 2:15:13 PM org.apache.catalina.startup.HostConfig deployWAR
+INFO: Deploying web application archive photoshare.war
+Apr 23, 2015 2:25:26 PM org.apache.catalina.startup.HostConfig checkResources
+INFO: Undeploying context [/photoshare]
+Apr 23, 2015 2:25:26 PM org.apache.catalina.startup.HostConfig deployWAR
+INFO: Deploying web application archive photoshare.war
+Apr 23, 2015 2:25:36 PM org.apache.catalina.startup.HostConfig checkResources
+INFO: Undeploying context [/photoshare]
+Apr 23, 2015 2:25:36 PM org.apache.catalina.startup.HostConfig deployWAR
+INFO: Deploying web application archive photoshare.war
+Apr 23, 2015 2:29:27 PM org.apache.catalina.startup.HostConfig checkResources
+INFO: Undeploying context [/photoshare]
+Apr 23, 2015 2:29:27 PM org.apache.catalina.startup.HostConfig deployWAR
+INFO: Deploying web application archive photoshare.war
+Apr 23, 2015 2:29:57 PM org.apache.catalina.startup.HostConfig checkResources
+INFO: Undeploying context [/photoshare]
+Apr 23, 2015 2:29:57 PM org.apache.catalina.startup.HostConfig deployWAR
+INFO: Deploying web application archive photoshare.war
+Apr 23, 2015 2:33:47 PM org.apache.catalina.startup.HostConfig checkResources
+INFO: Undeploying context [/photoshare]
+Apr 23, 2015 2:33:47 PM org.apache.catalina.startup.HostConfig deployWAR
+INFO: Deploying web application archive photoshare.war
+Apr 23, 2015 3:29:56 PM org.apache.catalina.startup.HostConfig checkResources
+INFO: Undeploying context [/photoshare]
+Apr 23, 2015 3:29:56 PM org.apache.catalina.startup.HostConfig deployWAR
+INFO: Deploying web application archive photoshare.war
+Apr 23, 2015 3:31:26 PM org.apache.catalina.startup.HostConfig checkResources
+INFO: Undeploying context [/photoshare]
+Apr 23, 2015 3:31:26 PM org.apache.catalina.startup.HostConfig deployWAR
+INFO: Deploying web application archive photoshare.war
+Apr 23, 2015 3:40:06 PM org.apache.catalina.startup.HostConfig checkResources
+INFO: Undeploying context [/photoshare]
+Apr 23, 2015 3:40:06 PM org.apache.catalina.startup.HostConfig deployWAR
+INFO: Deploying web application archive photoshare.war
+Apr 23, 2015 3:43:26 PM org.apache.catalina.startup.HostConfig checkResources
+INFO: Undeploying context [/photoshare]
+Apr 23, 2015 3:43:26 PM org.apache.catalina.startup.HostConfig deployWAR
+INFO: Deploying web application archive photoshare.war
+Apr 23, 2015 3:46:06 PM org.apache.catalina.startup.HostConfig checkResources
+INFO: Undeploying context [/photoshare]
+Apr 23, 2015 3:46:06 PM org.apache.catalina.startup.HostConfig deployWAR
+INFO: Deploying web application archive photoshare.war
+Apr 23, 2015 3:48:56 PM org.apache.catalina.startup.HostConfig checkResources
+INFO: Undeploying context [/photoshare]
+Apr 23, 2015 3:48:56 PM org.apache.catalina.startup.HostConfig deployWAR
+INFO: Deploying web application archive photoshare.war
+Apr 23, 2015 3:51:46 PM org.apache.catalina.startup.HostConfig checkResources
+INFO: Undeploying context [/photoshare]
+Apr 23, 2015 3:51:46 PM org.apache.catalina.startup.HostConfig deployWAR
+INFO: Deploying web application archive photoshare.war
+Apr 23, 2015 3:52:37 PM org.apache.catalina.startup.HostConfig checkResources
+INFO: Undeploying context [/photoshare]
+Apr 23, 2015 3:52:37 PM org.apache.catalina.startup.HostConfig deployWAR
+INFO: Deploying web application archive photoshare.war
+Apr 23, 2015 3:54:27 PM org.apache.catalina.startup.HostConfig checkResources
+INFO: Undeploying context [/photoshare]
+Apr 23, 2015 3:54:27 PM org.apache.catalina.startup.HostConfig deployWAR
+INFO: Deploying web application archive photoshare.war
+Apr 23, 2015 3:55:27 PM org.apache.catalina.startup.HostConfig checkResources
+INFO: Undeploying context [/photoshare]
+Apr 23, 2015 3:55:27 PM org.apache.catalina.startup.HostConfig deployWAR
+INFO: Deploying web application archive photoshare.war
+Apr 23, 2015 4:00:18 PM org.apache.catalina.startup.HostConfig checkResources
+INFO: Undeploying context [/photoshare]
+Apr 23, 2015 4:00:18 PM org.apache.catalina.startup.HostConfig deployWAR
+INFO: Deploying web application archive photoshare.war
+Apr 23, 2015 4:03:28 PM org.apache.catalina.startup.HostConfig checkResources
+INFO: Undeploying context [/photoshare]
+Apr 23, 2015 4:03:28 PM org.apache.catalina.startup.HostConfig deployWAR
+INFO: Deploying web application archive photoshare.war
+Apr 23, 2015 4:11:28 PM org.apache.catalina.startup.HostConfig checkResources
+INFO: Undeploying context [/photoshare]
+Apr 23, 2015 4:11:28 PM org.apache.catalina.startup.HostConfig deployWAR
+INFO: Deploying web application archive photoshare.war
+Apr 23, 2015 4:13:49 PM org.apache.catalina.startup.HostConfig checkResources
+INFO: Undeploying context [/photoshare]
+Apr 23, 2015 4:13:49 PM org.apache.catalina.startup.HostConfig deployWAR
+INFO: Deploying web application archive photoshare.war
+Apr 23, 2015 4:15:39 PM org.apache.catalina.startup.HostConfig checkResources
+INFO: Undeploying context [/photoshare]
+Apr 23, 2015 4:15:39 PM org.apache.catalina.startup.HostConfig deployWAR
+INFO: Deploying web application archive photoshare.war
+Apr 23, 2015 4:21:19 PM org.apache.catalina.startup.HostConfig checkResources
+INFO: Undeploying context [/photoshare]
+Apr 23, 2015 4:21:19 PM org.apache.catalina.startup.HostConfig deployWAR
+INFO: Deploying web application archive photoshare.war
+Apr 23, 2015 4:34:29 PM org.apache.catalina.startup.HostConfig checkResources
+INFO: Undeploying context [/photoshare]
+Apr 23, 2015 4:34:29 PM org.apache.catalina.startup.HostConfig deployWAR
+INFO: Deploying web application archive photoshare.war
+Apr 23, 2015 4:36:59 PM org.apache.catalina.startup.HostConfig checkResources
+INFO: Undeploying context [/photoshare]
+Apr 23, 2015 4:36:59 PM org.apache.catalina.startup.HostConfig deployWAR
+INFO: Deploying web application archive photoshare.war
+Apr 23, 2015 4:45:00 PM org.apache.catalina.startup.HostConfig checkResources
+INFO: Undeploying context [/photoshare]
+Apr 23, 2015 4:45:00 PM org.apache.catalina.startup.HostConfig deployWAR
+INFO: Deploying web application archive photoshare.war
+Apr 23, 2015 5:13:26 PM org.apache.catalina.startup.HostConfig checkResources
+INFO: Undeploying context [/photoshare]
+Apr 23, 2015 5:13:26 PM org.apache.catalina.startup.HostConfig deployWAR
+INFO: Deploying web application archive photoshare.war
+Apr 23, 2015 5:18:56 PM org.apache.catalina.startup.HostConfig checkResources
+INFO: Undeploying context [/photoshare]
+Apr 23, 2015 5:18:56 PM org.apache.catalina.startup.HostConfig deployWAR
+INFO: Deploying web application archive photoshare.war
+Apr 23, 2015 5:33:37 PM org.apache.catalina.startup.HostConfig checkResources
+INFO: Undeploying context [/photoshare]
+Apr 23, 2015 5:33:37 PM org.apache.catalina.startup.HostConfig deployWAR
+INFO: Deploying web application archive photoshare.war
+Apr 23, 2015 5:34:57 PM org.apache.catalina.startup.HostConfig checkResources
+INFO: Undeploying context [/photoshare]
+Apr 23, 2015 5:34:57 PM org.apache.catalina.startup.HostConfig deployWAR
+INFO: Deploying web application archive photoshare.war
+Apr 23, 2015 5:52:28 PM org.apache.catalina.startup.HostConfig checkResources
+INFO: Undeploying context [/photoshare]
+Apr 23, 2015 5:52:28 PM org.apache.catalina.startup.HostConfig deployWAR
+INFO: Deploying web application archive photoshare.war
+Apr 23, 2015 5:53:28 PM org.apache.catalina.startup.HostConfig checkResources
+INFO: Undeploying context [/photoshare]
+Apr 23, 2015 5:53:28 PM org.apache.catalina.startup.HostConfig deployWAR
+INFO: Deploying web application archive photoshare.war
+Apr 23, 2015 6:00:39 PM org.apache.catalina.startup.HostConfig checkResources
+INFO: Undeploying context [/photoshare]
+Apr 23, 2015 6:00:39 PM org.apache.catalina.startup.HostConfig deployWAR
+INFO: Deploying web application archive photoshare.war
+Apr 23, 2015 6:07:39 PM org.apache.catalina.startup.HostConfig checkResources
+INFO: Undeploying context [/webdav]
+Apr 23, 2015 6:07:39 PM org.apache.catalina.session.StandardManager doUnload
+SEVERE: IOException while saving persisted sessions: java.io.FileNotFoundException: /Users/Amy_Ly/Desktop/pa2/apache-tomcat-5.5.15/work/Catalina/localhost/webdav/SESSIONS.ser (No such file or directory)
+java.io.FileNotFoundException: /Users/Amy_Ly/Desktop/pa2/apache-tomcat-5.5.15/work/Catalina/localhost/webdav/SESSIONS.ser (No such file or directory)
+	at java.io.FileOutputStream.open(Native Method)
+	at java.io.FileOutputStream.<init>(FileOutputStream.java:194)
+	at java.io.FileOutputStream.<init>(FileOutputStream.java:84)
+	at org.apache.catalina.session.StandardManager.doUnload(StandardManager.java:488)
+	at org.apache.catalina.session.StandardManager.unload(StandardManager.java:462)
+	at org.apache.catalina.session.StandardManager.stop(StandardManager.java:666)
+	at org.apache.catalina.core.StandardContext.stop(StandardContext.java:4316)
+	at org.apache.catalina.core.ContainerBase.removeChild(ContainerBase.java:892)
+	at org.apache.catalina.startup.HostConfig.checkResources(HostConfig.java:1019)
+	at org.apache.catalina.startup.HostConfig.check(HostConfig.java:1178)
+	at org.apache.catalina.startup.HostConfig.lifecycleEvent(HostConfig.java:292)
+	at org.apache.catalina.util.LifecycleSupport.fireLifecycleEvent(LifecycleSupport.java:119)
+	at org.apache.catalina.core.ContainerBase.backgroundProcess(ContainerBase.java:1304)
+	at org.apache.catalina.core.ContainerBase$ContainerBackgroundProcessor.processChildren(ContainerBase.java:1568)
+	at org.apache.catalina.core.ContainerBase$ContainerBackgroundProcessor.processChildren(ContainerBase.java:1577)
+	at org.apache.catalina.core.ContainerBase$ContainerBackgroundProcessor.run(ContainerBase.java:1557)
+	at java.lang.Thread.run(Thread.java:695)
+Apr 23, 2015 6:07:39 PM org.apache.catalina.session.StandardManager stop
+SEVERE: Exception unloading sessions to persistent storage
+java.io.FileNotFoundException: /Users/Amy_Ly/Desktop/pa2/apache-tomcat-5.5.15/work/Catalina/localhost/webdav/SESSIONS.ser (No such file or directory)
+	at java.io.FileOutputStream.open(Native Method)
+	at java.io.FileOutputStream.<init>(FileOutputStream.java:194)
+	at java.io.FileOutputStream.<init>(FileOutputStream.java:84)
+	at org.apache.catalina.session.StandardManager.doUnload(StandardManager.java:488)
+	at org.apache.catalina.session.StandardManager.unload(StandardManager.java:462)
+	at org.apache.catalina.session.StandardManager.stop(StandardManager.java:666)
+	at org.apache.catalina.core.StandardContext.stop(StandardContext.java:4316)
+	at org.apache.catalina.core.ContainerBase.removeChild(ContainerBase.java:892)
+	at org.apache.catalina.startup.HostConfig.checkResources(HostConfig.java:1019)
+	at org.apache.catalina.startup.HostConfig.check(HostConfig.java:1178)
+	at org.apache.catalina.startup.HostConfig.lifecycleEvent(HostConfig.java:292)
+	at org.apache.catalina.util.LifecycleSupport.fireLifecycleEvent(LifecycleSupport.java:119)
+	at org.apache.catalina.core.ContainerBase.backgroundProcess(ContainerBase.java:1304)
+	at org.apache.catalina.core.ContainerBase$ContainerBackgroundProcessor.processChildren(ContainerBase.java:1568)
+	at org.apache.catalina.core.ContainerBase$ContainerBackgroundProcessor.processChildren(ContainerBase.java:1577)
+	at org.apache.catalina.core.ContainerBase$ContainerBackgroundProcessor.run(ContainerBase.java:1557)
+	at java.lang.Thread.run(Thread.java:695)
+Apr 23, 2015 6:07:39 PM org.apache.catalina.startup.HostConfig checkResources
+INFO: Undeploying context [/photoshare]
+Apr 23, 2015 6:07:39 PM org.apache.catalina.session.StandardManager doUnload
+SEVERE: IOException while saving persisted sessions: java.io.FileNotFoundException: /Users/Amy_Ly/Desktop/pa2/apache-tomcat-5.5.15/work/Catalina/localhost/photoshare/SESSIONS.ser (No such file or directory)
+java.io.FileNotFoundException: /Users/Amy_Ly/Desktop/pa2/apache-tomcat-5.5.15/work/Catalina/localhost/photoshare/SESSIONS.ser (No such file or directory)
+	at java.io.FileOutputStream.open(Native Method)
+	at java.io.FileOutputStream.<init>(FileOutputStream.java:194)
+	at java.io.FileOutputStream.<init>(FileOutputStream.java:84)
+	at org.apache.catalina.session.StandardManager.doUnload(StandardManager.java:488)
+	at org.apache.catalina.session.StandardManager.unload(StandardManager.java:462)
+	at org.apache.catalina.session.StandardManager.stop(StandardManager.java:666)
+	at org.apache.catalina.core.StandardContext.stop(StandardContext.java:4316)
+	at org.apache.catalina.core.ContainerBase.removeChild(ContainerBase.java:892)
+	at org.apache.catalina.startup.HostConfig.checkResources(HostConfig.java:1019)
+	at org.apache.catalina.startup.HostConfig.check(HostConfig.java:1178)
+	at org.apache.catalina.startup.HostConfig.lifecycleEvent(HostConfig.java:292)
+	at org.apache.catalina.util.LifecycleSupport.fireLifecycleEvent(LifecycleSupport.java:119)
+	at org.apache.catalina.core.ContainerBase.backgroundProcess(ContainerBase.java:1304)
+	at org.apache.catalina.core.ContainerBase$ContainerBackgroundProcessor.processChildren(ContainerBase.java:1568)
+	at org.apache.catalina.core.ContainerBase$ContainerBackgroundProcessor.processChildren(ContainerBase.java:1577)
+	at org.apache.catalina.core.ContainerBase$ContainerBackgroundProcessor.run(ContainerBase.java:1557)
+	at java.lang.Thread.run(Thread.java:695)
+Apr 23, 2015 6:07:39 PM org.apache.catalina.session.StandardManager stop
+SEVERE: Exception unloading sessions to persistent storage
+java.io.FileNotFoundException: /Users/Amy_Ly/Desktop/pa2/apache-tomcat-5.5.15/work/Catalina/localhost/photoshare/SESSIONS.ser (No such file or directory)
+	at java.io.FileOutputStream.open(Native Method)
+	at java.io.FileOutputStream.<init>(FileOutputStream.java:194)
+	at java.io.FileOutputStream.<init>(FileOutputStream.java:84)
+	at org.apache.catalina.session.StandardManager.doUnload(StandardManager.java:488)
+	at org.apache.catalina.session.StandardManager.unload(StandardManager.java:462)
+	at org.apache.catalina.session.StandardManager.stop(StandardManager.java:666)
+	at org.apache.catalina.core.StandardContext.stop(StandardContext.java:4316)
+	at org.apache.catalina.core.ContainerBase.removeChild(ContainerBase.java:892)
+	at org.apache.catalina.startup.HostConfig.checkResources(HostConfig.java:1019)
+	at org.apache.catalina.startup.HostConfig.check(HostConfig.java:1178)
+	at org.apache.catalina.startup.HostConfig.lifecycleEvent(HostConfig.java:292)
+	at org.apache.catalina.util.LifecycleSupport.fireLifecycleEvent(LifecycleSupport.java:119)
+	at org.apache.catalina.core.ContainerBase.backgroundProcess(ContainerBase.java:1304)
+	at org.apache.catalina.core.ContainerBase$ContainerBackgroundProcessor.processChildren(ContainerBase.java:1568)
+	at org.apache.catalina.core.ContainerBase$ContainerBackgroundProcessor.processChildren(ContainerBase.java:1577)
+	at org.apache.catalina.core.ContainerBase$ContainerBackgroundProcessor.run(ContainerBase.java:1557)
+	at java.lang.Thread.run(Thread.java:695)
+Apr 23, 2015 6:07:39 PM org.apache.catalina.startup.HostConfig checkResources
+INFO: Undeploying context [/servlets-examples]
+Apr 23, 2015 6:07:39 PM org.apache.catalina.session.StandardManager doUnload
+SEVERE: IOException while saving persisted sessions: java.io.FileNotFoundException: /Users/Amy_Ly/Desktop/pa2/apache-tomcat-5.5.15/work/Catalina/localhost/servlets-examples/SESSIONS.ser (No such file or directory)
+java.io.FileNotFoundException: /Users/Amy_Ly/Desktop/pa2/apache-tomcat-5.5.15/work/Catalina/localhost/servlets-examples/SESSIONS.ser (No such file or directory)
+	at java.io.FileOutputStream.open(Native Method)
+	at java.io.FileOutputStream.<init>(FileOutputStream.java:194)
+	at java.io.FileOutputStream.<init>(FileOutputStream.java:84)
+	at org.apache.catalina.session.StandardManager.doUnload(StandardManager.java:488)
+	at org.apache.catalina.session.StandardManager.unload(StandardManager.java:462)
+	at org.apache.catalina.session.StandardManager.stop(StandardManager.java:666)
+	at org.apache.catalina.core.StandardContext.stop(StandardContext.java:4316)
+	at org.apache.catalina.core.ContainerBase.removeChild(ContainerBase.java:892)
+	at org.apache.catalina.startup.HostConfig.checkResources(HostConfig.java:1019)
+	at org.apache.catalina.startup.HostConfig.check(HostConfig.java:1178)
+	at org.apache.catalina.startup.HostConfig.lifecycleEvent(HostConfig.java:292)
+	at org.apache.catalina.util.LifecycleSupport.fireLifecycleEvent(LifecycleSupport.java:119)
+	at org.apache.catalina.core.ContainerBase.backgroundProcess(ContainerBase.java:1304)
+	at org.apache.catalina.core.ContainerBase$ContainerBackgroundProcessor.processChildren(ContainerBase.java:1568)
+	at org.apache.catalina.core.ContainerBase$ContainerBackgroundProcessor.processChildren(ContainerBase.java:1577)
+	at org.apache.catalina.core.ContainerBase$ContainerBackgroundProcessor.run(ContainerBase.java:1557)
+	at java.lang.Thread.run(Thread.java:695)
+Apr 23, 2015 6:07:39 PM org.apache.catalina.session.StandardManager stop
+SEVERE: Exception unloading sessions to persistent storage
+java.io.FileNotFoundException: /Users/Amy_Ly/Desktop/pa2/apache-tomcat-5.5.15/work/Catalina/localhost/servlets-examples/SESSIONS.ser (No such file or directory)
+	at java.io.FileOutputStream.open(Native Method)
+	at java.io.FileOutputStream.<init>(FileOutputStream.java:194)
+	at java.io.FileOutputStream.<init>(FileOutputStream.java:84)
+	at org.apache.catalina.session.StandardManager.doUnload(StandardManager.java:488)
+	at org.apache.catalina.session.StandardManager.unload(StandardManager.java:462)
+	at org.apache.catalina.session.StandardManager.stop(StandardManager.java:666)
+	at org.apache.catalina.core.StandardContext.stop(StandardContext.java:4316)
+	at org.apache.catalina.core.ContainerBase.removeChild(ContainerBase.java:892)
+	at org.apache.catalina.startup.HostConfig.checkResources(HostConfig.java:1019)
+	at org.apache.catalina.startup.HostConfig.check(HostConfig.java:1178)
+	at org.apache.catalina.startup.HostConfig.lifecycleEvent(HostConfig.java:292)
+	at org.apache.catalina.util.LifecycleSupport.fireLifecycleEvent(LifecycleSupport.java:119)
+	at org.apache.catalina.core.ContainerBase.backgroundProcess(ContainerBase.java:1304)
+	at org.apache.catalina.core.ContainerBase$ContainerBackgroundProcessor.processChildren(ContainerBase.java:1568)
+	at org.apache.catalina.core.ContainerBase$ContainerBackgroundProcessor.processChildren(ContainerBase.java:1577)
+	at org.apache.catalina.core.ContainerBase$ContainerBackgroundProcessor.run(ContainerBase.java:1557)
+	at java.lang.Thread.run(Thread.java:695)
+Apr 23, 2015 6:07:39 PM org.apache.catalina.startup.HostConfig checkResources
+INFO: Undeploying context [/tomcat-docs]
+Apr 23, 2015 6:07:39 PM org.apache.catalina.session.StandardManager doUnload
+SEVERE: IOException while saving persisted sessions: java.io.FileNotFoundException: /Users/Amy_Ly/Desktop/pa2/apache-tomcat-5.5.15/work/Catalina/localhost/tomcat-docs/SESSIONS.ser (No such file or directory)
+java.io.FileNotFoundException: /Users/Amy_Ly/Desktop/pa2/apache-tomcat-5.5.15/work/Catalina/localhost/tomcat-docs/SESSIONS.ser (No such file or directory)
+	at java.io.FileOutputStream.open(Native Method)
+	at java.io.FileOutputStream.<init>(FileOutputStream.java:194)
+	at java.io.FileOutputStream.<init>(FileOutputStream.java:84)
+	at org.apache.catalina.session.StandardManager.doUnload(StandardManager.java:488)
+	at org.apache.catalina.session.StandardManager.unload(StandardManager.java:462)
+	at org.apache.catalina.session.StandardManager.stop(StandardManager.java:666)
+	at org.apache.catalina.core.StandardContext.stop(StandardContext.java:4316)
+	at org.apache.catalina.core.ContainerBase.removeChild(ContainerBase.java:892)
+	at org.apache.catalina.startup.HostConfig.checkResources(HostConfig.java:1019)
+	at org.apache.catalina.startup.HostConfig.check(HostConfig.java:1178)
+	at org.apache.catalina.startup.HostConfig.lifecycleEvent(HostConfig.java:292)
+	at org.apache.catalina.util.LifecycleSupport.fireLifecycleEvent(LifecycleSupport.java:119)
+	at org.apache.catalina.core.ContainerBase.backgroundProcess(ContainerBase.java:1304)
+	at org.apache.catalina.core.ContainerBase$ContainerBackgroundProcessor.processChildren(ContainerBase.java:1568)
+	at org.apache.catalina.core.ContainerBase$ContainerBackgroundProcessor.processChildren(ContainerBase.java:1577)
+	at org.apache.catalina.core.ContainerBase$ContainerBackgroundProcessor.run(ContainerBase.java:1557)
+	at java.lang.Thread.run(Thread.java:695)
+Apr 23, 2015 6:07:39 PM org.apache.catalina.session.StandardManager stop
+SEVERE: Exception unloading sessions to persistent storage
+java.io.FileNotFoundException: /Users/Amy_Ly/Desktop/pa2/apache-tomcat-5.5.15/work/Catalina/localhost/tomcat-docs/SESSIONS.ser (No such file or directory)
+	at java.io.FileOutputStream.open(Native Method)
+	at java.io.FileOutputStream.<init>(FileOutputStream.java:194)
+	at java.io.FileOutputStream.<init>(FileOutputStream.java:84)
+	at org.apache.catalina.session.StandardManager.doUnload(StandardManager.java:488)
+	at org.apache.catalina.session.StandardManager.unload(StandardManager.java:462)
+	at org.apache.catalina.session.StandardManager.stop(StandardManager.java:666)
+	at org.apache.catalina.core.StandardContext.stop(StandardContext.java:4316)
+	at org.apache.catalina.core.ContainerBase.removeChild(ContainerBase.java:892)
+	at org.apache.catalina.startup.HostConfig.checkResources(HostConfig.java:1019)
+	at org.apache.catalina.startup.HostConfig.check(HostConfig.java:1178)
+	at org.apache.catalina.startup.HostConfig.lifecycleEvent(HostConfig.java:292)
+	at org.apache.catalina.util.LifecycleSupport.fireLifecycleEvent(LifecycleSupport.java:119)
+	at org.apache.catalina.core.ContainerBase.backgroundProcess(ContainerBase.java:1304)
+	at org.apache.catalina.core.ContainerBase$ContainerBackgroundProcessor.processChildren(ContainerBase.java:1568)
+	at org.apache.catalina.core.ContainerBase$ContainerBackgroundProcessor.processChildren(ContainerBase.java:1577)
+	at org.apache.catalina.core.ContainerBase$ContainerBackgroundProcessor.run(ContainerBase.java:1557)
+	at java.lang.Thread.run(Thread.java:695)
+Apr 23, 2015 6:07:39 PM org.apache.catalina.startup.HostConfig checkResources
+INFO: Undeploying context [/jsp-examples]
+Apr 23, 2015 6:07:39 PM org.apache.catalina.session.StandardManager doUnload
+SEVERE: IOException while saving persisted sessions: java.io.FileNotFoundException: /Users/Amy_Ly/Desktop/pa2/apache-tomcat-5.5.15/work/Catalina/localhost/jsp-examples/SESSIONS.ser (No such file or directory)
+java.io.FileNotFoundException: /Users/Amy_Ly/Desktop/pa2/apache-tomcat-5.5.15/work/Catalina/localhost/jsp-examples/SESSIONS.ser (No such file or directory)
+	at java.io.FileOutputStream.open(Native Method)
+	at java.io.FileOutputStream.<init>(FileOutputStream.java:194)
+	at java.io.FileOutputStream.<init>(FileOutputStream.java:84)
+	at org.apache.catalina.session.StandardManager.doUnload(StandardManager.java:488)
+	at org.apache.catalina.session.StandardManager.unload(StandardManager.java:462)
+	at org.apache.catalina.session.StandardManager.stop(StandardManager.java:666)
+	at org.apache.catalina.core.StandardContext.stop(StandardContext.java:4316)
+	at org.apache.catalina.core.ContainerBase.removeChild(ContainerBase.java:892)
+	at org.apache.catalina.startup.HostConfig.checkResources(HostConfig.java:1019)
+	at org.apache.catalina.startup.HostConfig.check(HostConfig.java:1178)
+	at org.apache.catalina.startup.HostConfig.lifecycleEvent(HostConfig.java:292)
+	at org.apache.catalina.util.LifecycleSupport.fireLifecycleEvent(LifecycleSupport.java:119)
+	at org.apache.catalina.core.ContainerBase.backgroundProcess(ContainerBase.java:1304)
+	at org.apache.catalina.core.ContainerBase$ContainerBackgroundProcessor.processChildren(ContainerBase.java:1568)
+	at org.apache.catalina.core.ContainerBase$ContainerBackgroundProcessor.processChildren(ContainerBase.java:1577)
+	at org.apache.catalina.core.ContainerBase$ContainerBackgroundProcessor.run(ContainerBase.java:1557)
+	at java.lang.Thread.run(Thread.java:695)
+Apr 23, 2015 6:07:39 PM org.apache.catalina.session.StandardManager stop
+SEVERE: Exception unloading sessions to persistent storage
+java.io.FileNotFoundException: /Users/Amy_Ly/Desktop/pa2/apache-tomcat-5.5.15/work/Catalina/localhost/jsp-examples/SESSIONS.ser (No such file or directory)
+	at java.io.FileOutputStream.open(Native Method)
+	at java.io.FileOutputStream.<init>(FileOutputStream.java:194)
+	at java.io.FileOutputStream.<init>(FileOutputStream.java:84)
+	at org.apache.catalina.session.StandardManager.doUnload(StandardManager.java:488)
+	at org.apache.catalina.session.StandardManager.unload(StandardManager.java:462)
+	at org.apache.catalina.session.StandardManager.stop(StandardManager.java:666)
+	at org.apache.catalina.core.StandardContext.stop(StandardContext.java:4316)
+	at org.apache.catalina.core.ContainerBase.removeChild(ContainerBase.java:892)
+	at org.apache.catalina.startup.HostConfig.checkResources(HostConfig.java:1019)
+	at org.apache.catalina.startup.HostConfig.check(HostConfig.java:1178)
+	at org.apache.catalina.startup.HostConfig.lifecycleEvent(HostConfig.java:292)
+	at org.apache.catalina.util.LifecycleSupport.fireLifecycleEvent(LifecycleSupport.java:119)
+	at org.apache.catalina.core.ContainerBase.backgroundProcess(ContainerBase.java:1304)
+	at org.apache.catalina.core.ContainerBase$ContainerBackgroundProcessor.processChildren(ContainerBase.java:1568)
+	at org.apache.catalina.core.ContainerBase$ContainerBackgroundProcessor.processChildren(ContainerBase.java:1577)
+	at org.apache.catalina.core.ContainerBase$ContainerBackgroundProcessor.run(ContainerBase.java:1557)
+	at java.lang.Thread.run(Thread.java:695)
+Apr 23, 2015 6:07:39 PM org.apache.catalina.startup.HostConfig checkResources
+INFO: Undeploying context [/balancer]
+Apr 23, 2015 6:07:39 PM org.apache.catalina.session.StandardManager doUnload
+SEVERE: IOException while saving persisted sessions: java.io.FileNotFoundException: /Users/Amy_Ly/Desktop/pa2/apache-tomcat-5.5.15/work/Catalina/localhost/balancer/SESSIONS.ser (No such file or directory)
+java.io.FileNotFoundException: /Users/Amy_Ly/Desktop/pa2/apache-tomcat-5.5.15/work/Catalina/localhost/balancer/SESSIONS.ser (No such file or directory)
+	at java.io.FileOutputStream.open(Native Method)
+	at java.io.FileOutputStream.<init>(FileOutputStream.java:194)
+	at java.io.FileOutputStream.<init>(FileOutputStream.java:84)
+	at org.apache.catalina.session.StandardManager.doUnload(StandardManager.java:488)
+	at org.apache.catalina.session.StandardManager.unload(StandardManager.java:462)
+	at org.apache.catalina.session.StandardManager.stop(StandardManager.java:666)
+	at org.apache.catalina.core.StandardContext.stop(StandardContext.java:4316)
+	at org.apache.catalina.core.ContainerBase.removeChild(ContainerBase.java:892)
+	at org.apache.catalina.startup.HostConfig.checkResources(HostConfig.java:1019)
+	at org.apache.catalina.startup.HostConfig.check(HostConfig.java:1178)
+	at org.apache.catalina.startup.HostConfig.lifecycleEvent(HostConfig.java:292)
+	at org.apache.catalina.util.LifecycleSupport.fireLifecycleEvent(LifecycleSupport.java:119)
+	at org.apache.catalina.core.ContainerBase.backgroundProcess(ContainerBase.java:1304)
+	at org.apache.catalina.core.ContainerBase$ContainerBackgroundProcessor.processChildren(ContainerBase.java:1568)
+	at org.apache.catalina.core.ContainerBase$ContainerBackgroundProcessor.processChildren(ContainerBase.java:1577)
+	at org.apache.catalina.core.ContainerBase$ContainerBackgroundProcessor.run(ContainerBase.java:1557)
+	at java.lang.Thread.run(Thread.java:695)
+Apr 23, 2015 6:07:39 PM org.apache.catalina.session.StandardManager stop
+SEVERE: Exception unloading sessions to persistent storage
+java.io.FileNotFoundException: /Users/Amy_Ly/Desktop/pa2/apache-tomcat-5.5.15/work/Catalina/localhost/balancer/SESSIONS.ser (No such file or directory)
+	at java.io.FileOutputStream.open(Native Method)
+	at java.io.FileOutputStream.<init>(FileOutputStream.java:194)
+	at java.io.FileOutputStream.<init>(FileOutputStream.java:84)
+	at org.apache.catalina.session.StandardManager.doUnload(StandardManager.java:488)
+	at org.apache.catalina.session.StandardManager.unload(StandardManager.java:462)
+	at org.apache.catalina.session.StandardManager.stop(StandardManager.java:666)
+	at org.apache.catalina.core.StandardContext.stop(StandardContext.java:4316)
+	at org.apache.catalina.core.ContainerBase.removeChild(ContainerBase.java:892)
+	at org.apache.catalina.startup.HostConfig.checkResources(HostConfig.java:1019)
+	at org.apache.catalina.startup.HostConfig.check(HostConfig.java:1178)
+	at org.apache.catalina.startup.HostConfig.lifecycleEvent(HostConfig.java:292)
+	at org.apache.catalina.util.LifecycleSupport.fireLifecycleEvent(LifecycleSupport.java:119)
+	at org.apache.catalina.core.ContainerBase.backgroundProcess(ContainerBase.java:1304)
+	at org.apache.catalina.core.ContainerBase$ContainerBackgroundProcessor.processChildren(ContainerBase.java:1568)
+	at org.apache.catalina.core.ContainerBase$ContainerBackgroundProcessor.processChildren(ContainerBase.java:1577)
+	at org.apache.catalina.core.ContainerBase$ContainerBackgroundProcessor.run(ContainerBase.java:1557)
+	at java.lang.Thread.run(Thread.java:695)
+Apr 23, 2015 6:26:50 PM org.apache.coyote.http11.Http11BaseProtocol pause
+INFO: Pausing Coyote HTTP/1.1 on http-8080
+Apr 23, 2015 6:26:51 PM org.apache.catalina.core.StandardService stop
+INFO: Stopping service Catalina
+Apr 23, 2015 6:26:51 PM org.apache.coyote.http11.Http11BaseProtocol destroy
+INFO: Stopping Coyote HTTP/1.1 on http-8080
+Apr 23, 2015 6:26:51 PM org.apache.catalina.core.AprLifecycleListener lifecycleEvent
+INFO: Failed shutdown of Apache Portable Runtime

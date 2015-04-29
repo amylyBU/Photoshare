@@ -1,0 +1,177 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<project name="photoshare" default="all">
+  
+  
+  <property file="photoshare.properties"/>
+  <!-- Compiler options -->
+  
+  <property name="compiler.debug" value="on"/>
+  <property name="compiler.generate.no.warnings" value="off"/>
+  <property name="compiler.args" value=""/>
+  <property name="compiler.max.memory" value="128m"/>
+  <patternset id="ignored.files">
+    <exclude name="**/CVS/**"/>
+    <exclude name="**/SCCS/**"/>
+    <exclude name="**/RCS/**"/>
+    <exclude name="**/rcs/**"/>
+    <exclude name="**/.DS_Store/**"/>
+    <exclude name="**/.svn/**"/>
+  </patternset>
+  <patternset id="compiler.resources">
+    <include name="**/?*.properties"/>
+    <include name="**/?*.xml"/>
+    <include name="**/?*.gif"/>
+    <include name="**/?*.png"/>
+    <include name="**/?*.jpeg"/>
+    <include name="**/?*.jpg"/>
+    <include name="**/?*.html"/>
+    <include name="**/?*.dtd"/>
+    <include name="**/?*.tld"/>
+    <include name="**/?*.properties"/>
+    <include name="**/?*.xml"/>
+    <include name="**/?*.html"/>
+    <include name="**/?*.dtd"/>
+    <include name="**/?*.tld"/>
+    <include name="**/?*.gif"/>
+    <include name="**/?*.png"/>
+    <include name="**/?*.jpeg"/>
+    <include name="**/?*.jpg"/>
+  </patternset>
+  
+  <!-- JDK definitions -->
+  <path id="jdk.classpath.1.5">
+    <fileset dir="${jdk.home.1.5}">
+      <include name="jre/lib/charsets.jar"/>
+      <include name="jre/lib/deploy.jar"/>
+      <include name="jre/lib/javaws.jar"/>
+      <include name="jre/lib/jce.jar"/>
+      <include name="jre/lib/jsse.jar"/>
+      <include name="jre/lib/plugin.jar"/>
+      <include name="jre/lib/rt.jar"/>
+      <include name="jre/lib/ext/dnsns.jar"/>
+      <include name="jre/lib/ext/localedata.jar"/>
+      <include name="jre/lib/ext/sunjce_provider.jar"/>
+      <include name="jre/lib/ext/sunpkcs11.jar"/>
+    </fileset>
+  </path>
+  
+  <property name="project.jdk.home" value="${jdk.home.1.5}"/>
+  <property name="project.jdk.classpath" value="jdk.classpath.1.5"/>
+  
+  
+  <!-- Application Server Libraries -->
+  
+  <path id="library.tomcat.classpath">
+    <pathelement location="apache-tomcat-5.5.15/common/lib/commons-el.jar"/>
+    <pathelement location="apache-tomcat-5.5.15/common/lib/jasper-compiler-jdt.jar"/>
+    <pathelement location="apache-tomcat-5.5.15/common/lib/jasper-compiler.jar"/>
+    <pathelement location="apache-tomcat-5.5.15/common/lib/jasper-runtime.jar"/>
+    <pathelement location="apache-tomcat-5.5.15/common/lib/jsp-api.jar"/>
+    <pathelement location="apache-tomcat-5.5.15/common/lib/naming-factory-dbcp.jar"/>
+    <pathelement location="apache-tomcat-5.5.15/common/lib/naming-factory.jar"/>
+    <pathelement location="apache-tomcat-5.5.15/common/lib/naming-resources.jar"/>
+    <pathelement location="apache-tomcat-5.5.15/common/lib/postgresql-8.1-404.jdbc3.jar"/>
+    <pathelement location="apache-tomcat-5.5.15/common/lib/servlet-api.jar"/>
+  </path>
+  
+  <!-- Modules -->
+
+
+  <!-- Module photoshare -->
+  
+  <dirname property="module.photoshare.basedir" file="${ant.file}"/>
+  
+  
+  <property name="module.jdk.home.photoshare" value="${project.jdk.home}"/>
+  <property name="module.jdk.classpath.photoshare" value="${project.jdk.classpath}"/>
+  
+  <property name="compiler.args.photoshare" value="${compiler.args}"/>
+  
+  <property name="photoshare.output.dir" value="${module.photoshare.basedir}/photoshare/classes"/>
+  <property name="photoshare.testoutput.dir" value="${module.photoshare.basedir}/photoshare/classes"/>
+  
+  <path id="photoshare.module.bootclasspath">
+    <!-- Paths to be included in compilation bootclasspath -->
+  </path>
+  
+  <path id="photoshare.module.classpath">
+    <path refid="${module.jdk.classpath.photoshare}"/>
+    <pathelement location="${module.photoshare.basedir}/photoshare/WEB-INF/lib/commons-fileupload-1.1.jar"/>
+    <pathelement location="${module.photoshare.basedir}/photoshare/WEB-INF/lib/commons-io-1.1.jar"/>
+    <path refid="library.tomcat.classpath"/>
+  </path>
+  
+  
+  <patternset id="excluded.from.module.photoshare">
+    <patternset refid="ignored.files"/>
+  </patternset>
+  
+  <patternset id="excluded.from.compilation.photoshare">
+    <patternset refid="excluded.from.module.photoshare"/>
+  </patternset>
+  
+  <path id="photoshare.module.sourcepath">
+    <dirset dir="${module.photoshare.basedir}/photoshare">
+      <include name="src"/>
+    </dirset>
+  </path>
+  
+  
+  <target name="compile.module.photoshare" depends="compile.module.photoshare.production,compile.module.photoshare.tests" description="Compile module photoshare"/>
+  
+  <target name="compile.module.photoshare.production" description="Compile module photoshare; production classes">
+    <mkdir dir="${photoshare.output.dir}"/>
+    <javac destdir="${photoshare.output.dir}" debug="${compiler.debug}" nowarn="${compiler.generate.no.warnings}" memoryMaximumSize="${compiler.max.memory}" fork="true" executable="${module.jdk.home.photoshare}/bin/javac">
+      <compilerarg line="${compiler.args.photoshare}"/>
+      <bootclasspath refid="photoshare.module.bootclasspath"/>
+      <classpath refid="photoshare.module.classpath"/>
+      <src refid="photoshare.module.sourcepath"/>
+    </javac>
+    
+    <copy todir="${photoshare.output.dir}">
+      <fileset dir="${module.photoshare.basedir}/photoshare/src">
+        <patternset refid="compiler.resources"/>
+        <type type="file"/>
+      </fileset>
+    </copy>
+  </target>
+  
+  <target name="compile.module.photoshare.tests" depends="compile.module.photoshare.production" description="compile module photoshare; test classes" unless="skip.tests"/>
+  
+  <target name="clean.module.photoshare" description="cleanup module">
+    <delete dir="${photoshare.output.dir}"/>
+    <delete dir="${photoshare.testoutput.dir}"/>
+    <delete file="photoshare/photoshare.war"/>
+  </target>
+  
+  <property name="photoshare.path.jar" value="${module.photoshare.basedir}/photoshare/photoshare.war"/>
+  <target name="j2ee.build.photoshare" depends="compile.module.photoshare" description="Build configured J2EE directories and archives for module 'photoshare'">
+    <antcall target="j2ee.build.jar.photoshare">
+      <param name="j2ee.path.jar" value="${photoshare.path.jar}"/>
+    </antcall>
+  </target>
+
+  <target name="j2ee.build.jar.photoshare" description="Build J2EE archive for module 'photoshare'">
+    <jar destfile="${j2ee.path.jar}" duplicate="preserve">
+      <manifest>
+        <attribute name="Created-By" value="cs460"/>
+        <attribute name="Manifest-Version" value="1.0"/>
+      </manifest>
+      <zipfileset dir="${module.photoshare.basedir}/photoshare/classes" prefix="WEB-INF/classes"/>
+      <zipfileset dir="${module.photoshare.basedir}/photoshare/resources" prefix=""/>
+      <zipfileset dir="${module.photoshare.basedir}/photoshare/WEB-INF" prefix="WEB-INF"/>
+      <zipfileset file="${module.photoshare.basedir}/photoshare/WEB-INF/lib/commons-fileupload-1.1.jar" prefix="WEB-INF/lib"/>
+      <zipfileset file="${module.photoshare.basedir}/photoshare/WEB-INF/lib/commons-io-1.1.jar" prefix="WEB-INF/lib"/>
+      <zipfileset file="${module.photoshare.basedir}/photoshare/WEB-INF/web.xml" prefix="WEB-INF"/>
+      <zipfileset file="${module.photoshare.basedir}/photoshare/META-INF/context.xml" prefix="META-INF"/>
+    </jar>
+  </target>
+  
+  <target name="init" description="Build initialization">
+    <!-- Perform any build initialization in this target -->
+  </target>
+  
+  <target name="clean" depends="clean.module.photoshare" description="cleanup all"/>
+  
+  <target name="all" depends="init, clean, j2ee.build.photoshare" description="build all"/>
+</project>

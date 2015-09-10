@@ -1,5 +1,5 @@
 # Photoshare
-CAS CS460 Introduction to Database Systems - Final Project<br>
+CAS CS460 Database Systems - Final Project<br>
 Boston University - Spring 2015
 
 A Flickr-like web application that uses PostgreSQL as a database to store user information and their photos.
